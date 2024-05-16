@@ -1,0 +1,384 @@
+.actualizar-cita-veterinaria {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.actualizar-cita-veterinaria-wrapper {
+  width: 1020px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  font-size: var(--subtitulo-size);
+}
+.mascota8 {
+  position: relative;
+}
+.mascota-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.mascotarectangle-icon3 {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  max-height: 100%;
+  min-height: 53px;
+}
+.frame-parent54 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.fecha9 {
+  position: relative;
+  display: inline-block;
+  min-width: 113px;
+}
+.fecha-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.fecharectangle-icon3 {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  max-height: 100%;
+  min-height: 53px;
+}
+.frame-parent55 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.veterinaria3 {
+  position: relative;
+}
+.veterinaria-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.veterinariarectangle-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  min-width: 208px;
+  min-height: 53px;
+}
+.frame-parent56 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-37xl);
+}
+.doctor3 {
+  position: relative;
+  display: inline-block;
+  min-width: 126px;
+}
+.doctor-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.doctorrectangle-icon1 {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  max-height: 100%;
+  min-height: 53px;
+}
+.frame-parent57 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.consulta3 {
+  position: relative;
+}
+.consulta-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.consultarectangle-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  min-width: 208px;
+  min-height: 53px;
+}
+.frame-parent53,
+.frame-parent58 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent58 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-47xl);
+}
+.frame-parent53 {
+  width: 573px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-38xl);
+  max-width: 100%;
+  font-size: var(--textinterno-size);
+}
+.citamedica-upload-child,
+.citamedica-upload-item {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  max-height: 100%;
+  display: none;
+  max-width: 100%;
+}
+.guardar9 {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.citamedica-upload-child1,
+.citamedica-upload-inner {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  max-height: 100%;
+  display: none;
+  max-width: 100%;
+}
+.guardar10 {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.citamedica-upload-child2,
+.frame-child52 {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  display: none;
+  max-width: 100%;
+}
+.citamedica-upload-child2 {
+  max-height: 100%;
+}
+.frame-child52 {
+  height: 74px;
+}
+.cancelar6 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 8;
+}
+.frame-child53,
+.vector-parent8 {
+  width: 335px;
+  border-radius: var(--br-14xl);
+  max-width: 100%;
+}
+.vector-parent8 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-43xl);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  z-index: 7;
+}
+.vector-parent8:hover {
+  background-color: var(--color-palevioletred);
+}
+.frame-child53 {
+  height: 74px;
+  position: relative;
+  display: none;
+}
+.guardar11 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.vector-parent9 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-xl) var(--padding-xs)
+    var(--padding-2xl);
+  background-color: var(--cuadro);
+  width: 335px;
+  border-radius: var(--br-14xl);
+  justify-content: center;
+  box-sizing: border-box;
+}
+.vector-parent9:hover {
+  background-color: var(--color-lightblue);
+}
+.citamedica-upload-inner1,
+.frame-parent59,
+.vector-parent9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent59 {
+  width: 979px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.citamedica-upload-inner1 {
+  align-self: stretch;
+  justify-content: flex-end;
+}
+.citamedica-upload {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-91xl) var(--padding-138xl) var(--padding-78xl)
+    var(--padding-191xl);
+  box-sizing: border-box;
+  gap: var(--gap-60xl);
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--boton-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+@media screen and (max-width: 900px) {
+  .actualizar-cita-veterinaria {
+    font-size: var(--font-size-29xl);
+  }
+  .consulta3,
+  .doctor3,
+  .fecha9,
+  .mascota8,
+  .veterinaria3 {
+    font-size: var(--font-size-13xl);
+  }
+  .cancelar6,
+  .guardar10,
+  .guardar11,
+  .guardar9 {
+    font-size: var(--font-size-15xl);
+  }
+  .frame-parent59 {
+    flex-wrap: wrap;
+  }
+  .citamedica-upload {
+    gap: var(--gap-20xl);
+    padding-left: var(--padding-86xl);
+    padding-right: var(--padding-59xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 675px) {
+  .frame-parent54 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent55 {
+    flex-wrap: wrap;
+  }
+  .frame-parent56 {
+    gap: var(--gap-9xl);
+  }
+  .frame-parent57 {
+    flex-wrap: wrap;
+  }
+  .frame-parent58 {
+    gap: var(--gap-14xl);
+  }
+  .frame-parent53 {
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .actualizar-cita-veterinaria {
+    font-size: var(--font-size-17xl);
+  }
+  .consulta3,
+  .doctor3,
+  .fecha9,
+  .mascota8,
+  .veterinaria3 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent58 {
+    gap: var(--gap-base);
+  }
+  .cancelar6,
+  .guardar10,
+  .guardar9 {
+    font-size: var(--font-size-7xl);
+  }
+  .vector-parent8 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .guardar11 {
+    font-size: var(--font-size-7xl);
+  }
+  .citamedica-upload {
+    gap: var(--gap-xl);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

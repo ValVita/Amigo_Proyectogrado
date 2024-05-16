@@ -1,0 +1,398 @@
+.nuevo-examen {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.nuevo-examen-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--subtitulo-size);
+}
+.mascota13 {
+  position: relative;
+}
+.mascotarectangle-icon6 {
+  height: 52px;
+  width: 320px;
+  position: relative;
+}
+.mascota-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.fecha20 {
+  position: relative;
+  display: inline-block;
+  min-width: 113px;
+}
+.fecha-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.fecharectangle-icon6 {
+  height: 52px;
+  width: 320px;
+  position: relative;
+}
+.frame-parent116 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.tipo-examen {
+  position: relative;
+}
+.tipo-examen-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.doctorrectangle-icon4 {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  max-height: 100%;
+  min-height: 53px;
+}
+.frame-parent114,
+.frame-parent115,
+.frame-parent117 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent114,
+.frame-parent115 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+}
+.frame-parent114 {
+  gap: var(--gap-38xl);
+}
+.consulta14,
+.veterinaria14 {
+  position: relative;
+}
+.veterinaria-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-46xl);
+  min-width: 219px;
+}
+.veterinariarectangle-icon4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.consultarectangle-icon6 {
+  height: 52px;
+  width: 320px;
+  position: relative;
+  display: none;
+}
+.consulta15 {
+  position: relative;
+  z-index: 1;
+}
+.consultarectangle-container {
+  align-self: stretch;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 0 solid var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-11xs) var(--padding-xl) var(--padding-10xs);
+}
+.veterinariarectangle-parent {
+  height: 160px;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-37xl);
+  min-width: 320px;
+}
+.frame-parent118 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent113 {
+  width: 665px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-41xl);
+  max-width: 100%;
+  font-size: var(--textinterno-size);
+}
+.examenes-new-child,
+.examenes-new-item {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  max-height: 100%;
+  display: none;
+  max-width: 100%;
+}
+.guardar18 {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.examenes-new-child1,
+.examenes-new-inner {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  max-height: 100%;
+  display: none;
+  max-width: 100%;
+}
+.guardar19 {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.examenes-new-child2,
+.frame-child81 {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  display: none;
+  max-width: 100%;
+}
+.examenes-new-child2 {
+  max-height: 100%;
+}
+.frame-child81 {
+  height: 74px;
+}
+.cancelar9 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 8;
+}
+.frame-child82,
+.vector-parent14 {
+  width: 335px;
+  border-radius: var(--br-14xl);
+  max-width: 100%;
+}
+.vector-parent14 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-43xl);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  z-index: 7;
+}
+.vector-parent14:hover {
+  background-color: var(--color-palevioletred);
+}
+.frame-child82 {
+  height: 74px;
+  position: relative;
+  display: none;
+}
+.guardar20 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.frame-parent119,
+.vector-parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.vector-parent15 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-xl) var(--padding-xs)
+    var(--padding-2xl);
+  background-color: var(--cuadro);
+  width: 335px;
+  border-radius: var(--br-14xl);
+  justify-content: center;
+  box-sizing: border-box;
+}
+.vector-parent15:hover {
+  background-color: var(--color-lightblue);
+}
+.frame-parent119 {
+  width: 903px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.examenes-new,
+.examenes-new-inner1 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.examenes-new-inner1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs);
+  max-width: 100%;
+}
+.examenes-new {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-111xl) var(--padding-164xl) var(--padding-58xl);
+  gap: var(--gap-66xl);
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--boton-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+@media screen and (max-width: 900px) {
+  .nuevo-examen {
+    font-size: var(--font-size-29xl);
+  }
+  .fecha20,
+  .mascota13,
+  .tipo-examen {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-parent117 {
+    flex-wrap: wrap;
+  }
+  .consulta14,
+  .veterinaria14 {
+    font-size: var(--font-size-13xl);
+  }
+  .veterinaria-parent {
+    flex: 1;
+  }
+  .consulta15 {
+    font-size: var(--font-size-13xl);
+  }
+  .veterinariarectangle-parent {
+    flex: 1;
+  }
+  .frame-parent118 {
+    flex-wrap: wrap;
+  }
+  .cancelar9,
+  .guardar18,
+  .guardar19,
+  .guardar20 {
+    font-size: var(--font-size-15xl);
+  }
+  .frame-parent119 {
+    flex-wrap: wrap;
+  }
+  .examenes-new {
+    gap: var(--gap-23xl);
+    padding-left: var(--padding-72xl);
+    padding-right: var(--padding-72xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 675px) {
+  .frame-parent116,
+  .mascota-parent {
+    flex-wrap: wrap;
+  }
+  .frame-parent115 {
+    gap: var(--gap-7xl);
+  }
+  .frame-parent114 {
+    gap: var(--gap-9xl);
+  }
+  .frame-parent113 {
+    gap: var(--gap-11xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .nuevo-examen {
+    font-size: var(--font-size-17xl);
+  }
+  .consulta14,
+  .consulta15,
+  .fecha20,
+  .mascota13,
+  .tipo-examen,
+  .veterinaria14 {
+    font-size: var(--font-size-5xl);
+  }
+  .veterinariarectangle-parent {
+    gap: var(--gap-9xl);
+  }
+  .cancelar9,
+  .guardar18,
+  .guardar19 {
+    font-size: var(--font-size-7xl);
+  }
+  .vector-parent14 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .guardar20 {
+    font-size: var(--font-size-7xl);
+  }
+  .examenes-new {
+    gap: var(--gap-2xl);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

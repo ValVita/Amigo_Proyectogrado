@@ -1,0 +1,483 @@
+.cita-veterinaria2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.cita-veterinaria-frame {
+  width: 1264px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 133px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--subtitulo-size);
+}
+.citamedica-yes-child {
+  width: 320px;
+  height: 53px;
+}
+.citamedica-yes-child,
+.div3,
+.nuevo-seguimiento28 {
+  position: relative;
+  display: none;
+}
+.nuevo-seguimiento28 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: var(--nuevo);
+}
+.div3 {
+  width: 132px;
+  font-size: var(--font-size-109xl);
+  line-height: 144px;
+  color: var(--color-white);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 144px;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.frame-child60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 100%;
+}
+.perrito-icon5 {
+  position: absolute;
+  top: 23px;
+  left: 23px;
+  width: 104px;
+  height: 119px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.ellipse-parent7 {
+  height: 150px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper33 {
+  width: 150px;
+  margin: 0 !important;
+  position: absolute;
+  top: -23px;
+  left: 140px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nuevo-seguimiento29,
+.nuevo-seguimiento30 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  border-radius: 50%;
+}
+.nuevo-seguimiento29 {
+  top: 21px;
+  right: 407px;
+  background-color: var(--nuevo);
+  z-index: 1;
+}
+.nuevo-seguimiento30 {
+  top: 19px;
+  right: 253px;
+  background-color: var(--actualizar);
+}
+.ffffff-1-icon6 {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  margin: 0 !important;
+  top: 37px;
+  right: 273px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.nombre9 {
+  position: relative;
+}
+.nuevo-seguimiento31 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--eliminar);
+}
+.h18 {
+  margin: 0 !important;
+  height: 146.4px;
+  width: 112.4px;
+  position: absolute;
+  right: -98.44px;
+  bottom: -24.49px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  transform: rotate(47.5deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.frame-wrapper35,
+.nuevo-seguimiento-parent11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nuevo-seguimiento-parent11 {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  position: relative;
+}
+.frame-wrapper35 {
+  height: 119px;
+  width: 100px;
+  flex-direction: column;
+  padding: var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+}
+.frame-wrapper34,
+.nombre-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.nombre-parent1 {
+  width: 837px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper34 {
+  width: 1047px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-child61,
+.frame-child62 {
+  width: 1258px;
+  height: 487px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.frame-child62 {
+  width: 1137px;
+  height: 138px;
+  background-color: var(--cuadro);
+}
+.fecha12 {
+  width: 147px;
+  display: inline-block;
+}
+.consulta6,
+.fecha12 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.frame-child63,
+.rectangle-parent32 {
+  background-color: var(--cuadro);
+  max-width: 100%;
+}
+.rectangle-parent32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-15xl);
+  z-index: 1;
+}
+.frame-child63 {
+  width: 1137px;
+  height: 138px;
+  position: relative;
+  display: none;
+}
+.consulta7,
+.fecha13 {
+  width: 147px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  z-index: 2;
+}
+.consulta7 {
+  width: 139px;
+  border: 0;
+  outline: 0;
+  font-family: var(--piepagina);
+  font-size: var(--piepagina-size);
+  background-color: transparent;
+  height: 35px;
+  color: var(--color-black);
+  text-align: left;
+  padding: 0;
+}
+.rectangle-parent33 {
+  align-self: stretch;
+  background-color: var(--cuadro);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-smi) var(--padding-4xl);
+  box-sizing: border-box;
+  gap: var(--gap-15xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.ver-mas2 {
+  position: relative;
+  z-index: 1;
+}
+.ver-mas-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-20xl);
+  font-size: var(--textinterno-size);
+}
+.frame-parent63,
+.rectangle-parent31 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent31 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  align-items: flex-start;
+  padding: var(--padding-36xl) var(--padding-24xl) var(--padding-10xl)
+    var(--padding-59xl);
+  box-sizing: border-box;
+  gap: var(--gap-21xl);
+  font-size: var(--piepagina-size);
+}
+.frame-parent63 {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-44xl);
+}
+.frame-child64,
+.se-ha-elimado1 {
+  position: relative;
+  max-width: 100%;
+}
+.frame-child64 {
+  height: 497px;
+  width: 793px;
+  border-radius: var(--br-xl);
+  background-color: var(--nuevo);
+  display: none;
+}
+.se-ha-elimado1 {
+  margin: 0;
+  height: 201px;
+  width: 576px;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.frame-parent62,
+.rectangle-parent34 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent34 {
+  width: 793px;
+  margin: 0 !important;
+  position: absolute;
+  top: 37px;
+  right: 227px;
+  border-radius: var(--br-xl);
+  background-color: var(--nuevo);
+  justify-content: center;
+  padding: var(--padding-176xl) var(--padding-xl) var(--padding-82xl)
+    var(--padding-22xl);
+  box-sizing: border-box;
+  z-index: 3;
+  text-align: center;
+  font-size: var(--cuerpo1-size);
+}
+.frame-parent62 {
+  width: 1258px;
+  justify-content: flex-start;
+  position: relative;
+  text-align: left;
+  font-size: var(--textinterno-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+.doctor6,
+.doctor7,
+.veterinaria6,
+.veterinaria7 {
+  position: relative;
+  font-weight: 300;
+  display: none;
+}
+.doctor6,
+.doctor7 {
+  min-width: 93px;
+}
+.citamedica-yes {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-76xl) var(--padding-xl) var(--padding-76xl)
+    var(--padding-7xl);
+  box-sizing: border-box;
+  gap: 95px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--piepagina-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+@media screen and (max-width: 1200px) {
+  .rectangle-parent31 {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cita-veterinaria2 {
+    font-size: var(--font-size-29xl);
+  }
+  .div3 {
+    font-size: var(--font-size-32xl);
+    line-height: 86px;
+  }
+  .nombre9 {
+    font-size: var(--font-size-13xl);
+  }
+  .h18 {
+    font-size: var(--font-size-32xl);
+  }
+  .consulta6,
+  .consulta7,
+  .fecha12,
+  .fecha13 {
+    font-size: var(--font-size-5xl);
+  }
+  .ver-mas2 {
+    font-size: var(--font-size-13xl);
+  }
+  .se-ha-elimado1 {
+    font-size: var(--textinterno-size);
+  }
+  .doctor6,
+  .doctor7,
+  .veterinaria6,
+  .veterinaria7 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .cita-veterinaria-frame {
+    padding-left: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent31 {
+    gap: var(--gap-xl);
+    padding-top: var(--padding-17xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent63 {
+    gap: var(--gap-12xl);
+  }
+  .citamedica-yes {
+    gap: 47px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cita-veterinaria2 {
+    font-size: var(--font-size-17xl);
+  }
+  .cita-veterinaria-frame {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .div3 {
+    font-size: var(--font-size-13xl);
+    line-height: 58px;
+  }
+  .nombre9 {
+    font-size: var(--font-size-5xl);
+  }
+  .h18 {
+    font-size: var(--font-size-13xl);
+  }
+  .nombre-parent1 {
+    flex-wrap: wrap;
+  }
+  .consulta6,
+  .consulta7,
+  .fecha12,
+  .fecha13 {
+    font-size: var(--font-size-lg);
+  }
+  .ver-mas2 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent63 {
+    gap: var(--gap-base);
+  }
+  .se-ha-elimado1 {
+    font-size: var(--piepagina-size);
+  }
+  .doctor6,
+  .doctor7,
+  .veterinaria6,
+  .veterinaria7 {
+    font-size: var(--font-size-lg);
+  }
+  .citamedica-yes {
+    gap: var(--gap-5xl);
+  }
+}

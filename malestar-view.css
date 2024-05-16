@@ -1,0 +1,659 @@
+.nuevo-seguimiento58 {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  display: none;
+}
+.home-page-child {
+  height: 97px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+.mascota15 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 117px;
+  z-index: 2;
+}
+.male-options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+}
+.seguimiento6 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.male-options1 {
+  flex: 0.9;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  min-width: 130px;
+}
+.cita-medica7 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.male-options2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+}
+.vacuna7 {
+  display: inline-block;
+  min-width: 103px;
+}
+.examenes7,
+.malestar7,
+.vacuna7 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.malestar7 {
+  display: inline-block;
+  min-width: 118px;
+}
+.male-options3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+}
+.medicamento12 {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 123px;
+  z-index: 2;
+}
+.home-layout,
+.home-options {
+  display: flex;
+  align-items: flex-start;
+}
+.home-options {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.home-layout {
+  width: 1202px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.icons8-home-14 {
+  height: 89px;
+  width: 98px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.home-page {
+  align-self: stretch;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-9xl) var(--padding-5xs) var(--padding-mid);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.malestar9 {
+  margin: 0;
+  height: 54px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+  display: inline-block;
+}
+.malestar-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-62xl);
+}
+.pet-icon-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 100%;
+}
+.perrito-icon12 {
+  position: absolute;
+  top: 23px;
+  left: 23px;
+  width: 104px;
+  height: 119px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.pet-icon {
+  height: 150px;
+  flex: 1;
+  position: relative;
+}
+.pet-information {
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nombre16 {
+  position: relative;
+}
+.pet-name-layout {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+}
+.pet-name-content-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.pet-name-content,
+.pet-name-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.pet-name-content {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  gap: var(--gap-10xs);
+}
+.pet-name-wrapper {
+  height: 126px;
+  padding: var(--padding-4xl) 0 0;
+  box-sizing: border-box;
+}
+.pet-card,
+.pet-details-content,
+.pet-name-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.pet-card {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+}
+.pet-details-content {
+  width: 489px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.nuevo-seguimiento59 {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  width: 100px;
+  height: 100px;
+  z-index: 1;
+}
+.new-follow-up1 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 22px;
+  font-size: inherit;
+  line-height: 144px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 132px;
+  height: 144px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  z-index: 2;
+}
+.new-follow-up {
+  height: 144px;
+  flex: 1;
+  position: relative;
+}
+.nuevo-seguimiento60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--actualizar);
+  width: 100%;
+  height: 100%;
+}
+.ffffff-1-icon13 {
+  position: absolute;
+  top: 18px;
+  left: 20px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  z-index: 1;
+}
+.new-appointment-content {
+  height: 100px;
+  flex: 1;
+  position: relative;
+}
+.new-appointment,
+.new-appointment-layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.new-appointment-layout {
+  width: 100px;
+  flex-direction: row;
+}
+.new-appointment {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xl) 0 0;
+}
+.nuevo-seguimiento61 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--eliminar);
+}
+.new-something-label {
+  margin: 0 !important;
+  height: 146.4px;
+  width: 112.4px;
+  position: absolute;
+  right: -98.44px;
+  bottom: -24.49px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  transform: rotate(47.5deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.new-something,
+.new-something-layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.new-something-layout {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  position: relative;
+}
+.new-something {
+  height: 120px;
+  width: 100px;
+  flex-direction: column;
+  padding: var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.new-entries,
+.pet-details {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.new-entries {
+  width: 402px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+}
+.pet-details {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--textinterno-size);
+}
+.malestar-content,
+.malestar-wrapper5 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.malestar-wrapper5 {
+  width: 1013px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8.4px;
+}
+.malestar-content {
+  width: 1197px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--subtitulo-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+.medical-records-child,
+.record-header-child {
+  width: 1258px;
+  height: 487px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.record-header-child {
+  height: 138px;
+  width: 1137px;
+  background-color: var(--cuadro);
+}
+.consulta18,
+.fecha24 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.fecha24 {
+  align-self: stretch;
+}
+.consulta18 {
+  display: inline-block;
+  min-width: 107px;
+}
+.record-details {
+  width: 152px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.nota {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 67px;
+  z-index: 2;
+}
+.record-header,
+.record-header-item {
+  background-color: var(--cuadro);
+  max-width: 100%;
+}
+.record-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-87xl);
+  z-index: 1;
+}
+.record-header-item {
+  height: 138px;
+  width: 1137px;
+  position: relative;
+  display: none;
+}
+.consulta19,
+.fecha25 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.fecha25 {
+  align-self: stretch;
+}
+.consulta19 {
+  display: inline-block;
+  min-width: 107px;
+}
+.consulta-wrapper4,
+.fecha-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.consulta-wrapper4 {
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+}
+.fecha-parent3 {
+  width: 152px;
+  flex-direction: column;
+  gap: var(--gap-15xl);
+}
+.nota1 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  min-width: 67px;
+  z-index: 2;
+}
+.record-header1 {
+  align-self: stretch;
+  background-color: var(--cuadro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-smi) var(--padding-4xl);
+  box-sizing: border-box;
+  gap: var(--gap-82xl);
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--piepagina-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+.ver-mas3 {
+  position: relative;
+  z-index: 1;
+}
+.records-footer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-20xl);
+  font-size: var(--textinterno-size);
+}
+.malestar-layout,
+.medical-records {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.medical-records {
+  align-self: stretch;
+  background-color: var(--color-white);
+  padding: var(--padding-36xl) var(--padding-24xl) var(--padding-10xl)
+    var(--padding-59xl);
+  box-sizing: border-box;
+  gap: var(--gap-21xl);
+}
+.malestar-layout {
+  width: 1258px;
+  gap: 96px;
+  text-align: left;
+  font-size: var(--piepagina-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+.malestar-view,
+.malestar8 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.malestar8 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  max-width: 100%;
+}
+.malestar-view {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 113px;
+  gap: 2.2px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--piepagina-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+@media screen and (max-width: 1350px) {
+  .home-page {
+    flex-wrap: wrap;
+  }
+  .medical-records {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .home-options {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .cita-medica7,
+  .consulta18,
+  .consulta19,
+  .examenes7,
+  .fecha24,
+  .fecha25,
+  .malestar7,
+  .mascota15,
+  .medicamento12,
+  .nota,
+  .nota1,
+  .seguimiento6,
+  .vacuna7 {
+    font-size: var(--font-size-5xl);
+  }
+  .ver-mas3 {
+    font-size: var(--font-size-13xl);
+  }
+  .medical-records {
+    gap: var(--gap-xl);
+    padding-top: var(--padding-17xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .malestar-layout {
+    gap: 48px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .mascota15,
+  .seguimiento6 {
+    font-size: var(--font-size-lg);
+  }
+  .male-options1 {
+    flex: 1;
+  }
+  .cita-medica7,
+  .examenes7,
+  .malestar7,
+  .medicamento12,
+  .vacuna7 {
+    font-size: var(--font-size-lg);
+  }
+  .malestar-header {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .consulta18,
+  .fecha24,
+  .nota {
+    font-size: var(--font-size-lg);
+  }
+  .record-header {
+    flex-wrap: wrap;
+    gap: var(--gap-34xl);
+    justify-content: center;
+  }
+  .consulta19,
+  .fecha25,
+  .nota1 {
+    font-size: var(--font-size-lg);
+  }
+  .record-header1 {
+    flex-wrap: wrap;
+    gap: var(--gap-31xl);
+  }
+  .ver-mas3 {
+    font-size: var(--font-size-5xl);
+  }
+  .malestar-layout {
+    gap: var(--gap-5xl);
+  }
+}

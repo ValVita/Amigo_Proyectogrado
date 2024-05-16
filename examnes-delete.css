@@ -1,0 +1,413 @@
+.seguimiento-de-examenes1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.seguimiento-de-examenes-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 93px;
+  font-size: var(--subtitulo-size);
+}
+.examnes-delete-child {
+  width: 320px;
+  height: 53px;
+}
+.examnes-delete-child,
+.nombre14 {
+  position: relative;
+  display: none;
+}
+.nuevo-seguimiento49,
+.nuevo-seguimiento50 {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  display: none;
+}
+.div6 {
+  width: 132px;
+  position: relative;
+  font-size: var(--font-size-109xl);
+  line-height: 144px;
+  color: var(--color-white);
+  display: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 144px;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.nuevo-seguimiento51 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: var(--actualizar);
+}
+.nuevo-seguimiento51,
+.tipo-de-examen1,
+.veterinaria16 {
+  position: relative;
+  display: none;
+}
+.nuevo-seguimiento52 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--eliminar);
+}
+.h113 {
+  margin: 0 !important;
+  height: 146.4px;
+  width: 112.4px;
+  position: absolute;
+  right: -98.44px;
+  bottom: -24.49px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  transform: rotate(47.5deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.nuevo-seguimiento-parent22 {
+  position: absolute;
+  top: 21px;
+  left: 933px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+}
+.fecha22 {
+  position: absolute;
+  top: 261px;
+  left: 0;
+  display: inline-block;
+  min-width: 113px;
+  z-index: 2;
+}
+.examen-1-icon1,
+.frame-child85 {
+  position: relative;
+  max-width: 100%;
+}
+.frame-child85 {
+  height: 506px;
+  width: 1258px;
+  background-color: var(--color-white);
+  display: none;
+}
+.examen-1-icon1 {
+  height: 386px;
+  flex: 1;
+  overflow: hidden;
+  z-index: 1;
+}
+.rectangle-parent41 {
+  width: 1258px;
+  margin: 0 !important;
+  position: absolute;
+  right: -281px;
+  bottom: -193px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-38xl) var(--padding-29xl) var(--padding-44xl);
+  box-sizing: border-box;
+}
+.frame-child86 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 100%;
+}
+.perrito-icon10 {
+  position: absolute;
+  top: 23px;
+  left: 23px;
+  width: 104px;
+  height: 119px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.ellipse-parent12 {
+  height: 150px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper59 {
+  width: 150px;
+  top: -21px;
+  left: -92px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.documento4,
+.ffffff-1-icon11,
+.frame-wrapper59 {
+  position: absolute;
+  margin: 0 !important;
+}
+.ffffff-1-icon11 {
+  height: 60px;
+  width: 60px;
+  top: 39px;
+  right: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.documento4 {
+  right: -137px;
+  bottom: 189px;
+  z-index: 2;
+}
+.frame-child87 {
+  align-self: stretch;
+  height: 497px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  display: none;
+}
+.est-seguro-que4 {
+  width: 778px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 6;
+}
+.nuevo-seguimiento53 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--eliminar);
+  width: 100%;
+  height: 100%;
+  z-index: 6;
+}
+.no4 {
+  position: absolute;
+  top: 26px;
+  left: 19px;
+  display: inline-block;
+  min-width: 61px;
+  z-index: 7;
+}
+.nuevo-seguimiento-parent23 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-child88 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  width: 100%;
+  height: 100%;
+  z-index: 6;
+}
+.si4 {
+  position: absolute;
+  top: 26px;
+  left: 28px;
+  display: inline-block;
+  min-width: 35px;
+  z-index: 7;
+}
+.ellipse-parent13 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-parent129,
+.frame-wrapper60 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent129 {
+  width: 382px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper60 {
+  width: 754px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--textinterno-size);
+}
+.frame-parent128,
+.rectangle-parent42 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent42 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  flex-direction: column;
+  padding: var(--padding-39xl) var(--padding-12xs) var(--padding-41xl);
+  box-sizing: border-box;
+  gap: 161px;
+  z-index: 5;
+  text-align: center;
+  font-size: var(--cuerpo1-size);
+}
+.frame-parent128 {
+  position: absolute;
+  top: 0;
+  left: 112px;
+  width: 793px;
+  flex-direction: row;
+}
+.examnes-delete,
+.frame-parent127 {
+  position: relative;
+  text-align: left;
+  font-size: var(--textinterno-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+.frame-parent127 {
+  width: 1033px;
+  height: 497px;
+  max-width: 100%;
+}
+.examnes-delete {
+  width: 100%;
+  background-color: var(--fondo);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-102xl) 181px var(--padding-296xl);
+  box-sizing: border-box;
+  gap: var(--gap-2xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 825px) {
+  .seguimiento-de-examenes1 {
+    font-size: var(--font-size-29xl);
+  }
+  .seguimiento-de-examenes-container {
+    padding-left: 46px;
+    box-sizing: border-box;
+  }
+  .nombre14 {
+    font-size: var(--font-size-13xl);
+  }
+  .div6 {
+    font-size: var(--font-size-32xl);
+    line-height: 86px;
+  }
+  .tipo-de-examen1,
+  .veterinaria16 {
+    font-size: var(--font-size-13xl);
+  }
+  .h113 {
+    font-size: var(--font-size-32xl);
+  }
+  .documento4,
+  .fecha22 {
+    font-size: var(--font-size-13xl);
+  }
+  .est-seguro-que4 {
+    font-size: var(--textinterno-size);
+  }
+  .no4,
+  .si4 {
+    font-size: var(--font-size-13xl);
+  }
+  .examnes-delete {
+    padding-left: var(--padding-71xl);
+    padding-right: var(--padding-71xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .seguimiento-de-examenes1 {
+    font-size: var(--font-size-17xl);
+  }
+  .seguimiento-de-examenes-container {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .nombre14 {
+    font-size: var(--font-size-5xl);
+  }
+  .div6 {
+    font-size: var(--font-size-13xl);
+    line-height: 58px;
+  }
+  .tipo-de-examen1,
+  .veterinaria16 {
+    font-size: var(--font-size-5xl);
+  }
+  .h113 {
+    font-size: var(--font-size-13xl);
+  }
+  .documento4,
+  .fecha22 {
+    font-size: var(--font-size-5xl);
+  }
+  .est-seguro-que4 {
+    font-size: var(--piepagina-size);
+  }
+  .no4,
+  .si4 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent129 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent127 {
+    height: auto;
+    min-height: 497;
+  }
+  .examnes-delete {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

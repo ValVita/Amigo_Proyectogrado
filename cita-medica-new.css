@@ -1,0 +1,384 @@
+.nueva-cita-veterinaria {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.nueva-cita-veterinaria-wrapper {
+  width: 1021px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  font-size: var(--subtitulo-size);
+}
+.mascota7 {
+  position: relative;
+}
+.mascota-wrapper4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.mascotarectangle-icon2 {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  max-height: 100%;
+  min-height: 53px;
+}
+.frame-parent47 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.fecha8 {
+  position: relative;
+  display: inline-block;
+  min-width: 113px;
+}
+.fecha-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.fecharectangle-icon2 {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  max-height: 100%;
+  min-height: 53px;
+}
+.frame-parent48 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.veterinaria2 {
+  position: relative;
+}
+.veterinaria-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.veterinariarectangle-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  min-width: 208px;
+  min-height: 53px;
+}
+.frame-parent49 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-37xl);
+}
+.doctor2 {
+  position: relative;
+  display: inline-block;
+  min-width: 126px;
+}
+.doctor-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.doctorrectangle-icon {
+  align-self: stretch;
+  width: 320px;
+  position: relative;
+  max-height: 100%;
+  min-height: 53px;
+}
+.frame-parent50 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.consulta2 {
+  position: relative;
+}
+.consulta-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.consultarectangle-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  min-width: 208px;
+  min-height: 53px;
+}
+.frame-parent46,
+.frame-parent51 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent51 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-47xl);
+}
+.frame-parent46 {
+  width: 573px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-38xl);
+  max-width: 100%;
+  font-size: var(--textinterno-size);
+}
+.citamedica-new-child,
+.citamedica-new-item {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  max-height: 100%;
+  display: none;
+  max-width: 100%;
+}
+.guardar6 {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.citamedica-new-child1,
+.citamedica-new-inner {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  max-height: 100%;
+  display: none;
+  max-width: 100%;
+}
+.guardar7 {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.citamedica-new-child2,
+.frame-child50 {
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  display: none;
+  max-width: 100%;
+}
+.citamedica-new-child2 {
+  max-height: 100%;
+}
+.frame-child50 {
+  height: 74px;
+}
+.cancelar5 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 8;
+}
+.frame-child51,
+.vector-parent6 {
+  width: 335px;
+  border-radius: var(--br-14xl);
+  max-width: 100%;
+}
+.vector-parent6 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-43xl);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  z-index: 7;
+}
+.vector-parent6:hover {
+  background-color: var(--color-palevioletred);
+}
+.frame-child51 {
+  height: 74px;
+  position: relative;
+  display: none;
+}
+.guardar8 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.vector-parent7 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-xl) var(--padding-xs)
+    var(--padding-2xl);
+  background-color: var(--cuadro);
+  width: 335px;
+  border-radius: var(--br-14xl);
+  justify-content: center;
+  box-sizing: border-box;
+}
+.vector-parent7:hover {
+  background-color: var(--color-lightblue);
+}
+.citamedica-new-inner1,
+.frame-parent52,
+.vector-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent52 {
+  width: 979px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.citamedica-new-inner1 {
+  align-self: stretch;
+  justify-content: flex-end;
+}
+.citamedica-new {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-91xl) var(--padding-138xl) var(--padding-78xl)
+    var(--padding-191xl);
+  box-sizing: border-box;
+  gap: var(--gap-60xl);
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--boton-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+@media screen and (max-width: 900px) {
+  .nueva-cita-veterinaria {
+    font-size: var(--font-size-29xl);
+  }
+  .consulta2,
+  .doctor2,
+  .fecha8,
+  .mascota7,
+  .veterinaria2 {
+    font-size: var(--font-size-13xl);
+  }
+  .cancelar5,
+  .guardar6,
+  .guardar7,
+  .guardar8 {
+    font-size: var(--font-size-15xl);
+  }
+  .frame-parent52 {
+    flex-wrap: wrap;
+  }
+  .citamedica-new {
+    gap: var(--gap-20xl);
+    padding-left: var(--padding-86xl);
+    padding-right: var(--padding-59xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 675px) {
+  .frame-parent47 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent48 {
+    flex-wrap: wrap;
+  }
+  .frame-parent49 {
+    gap: var(--gap-9xl);
+  }
+  .frame-parent50 {
+    flex-wrap: wrap;
+  }
+  .frame-parent51 {
+    gap: var(--gap-14xl);
+  }
+  .frame-parent46 {
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .nueva-cita-veterinaria {
+    font-size: var(--font-size-17xl);
+  }
+  .consulta2,
+  .doctor2,
+  .fecha8,
+  .mascota7,
+  .veterinaria2 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent51 {
+    gap: var(--gap-base);
+  }
+  .cancelar5,
+  .guardar6,
+  .guardar7 {
+    font-size: var(--font-size-7xl);
+  }
+  .vector-parent6 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .guardar8 {
+    font-size: var(--font-size-7xl);
+  }
+  .citamedica-new {
+    gap: var(--gap-xl);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

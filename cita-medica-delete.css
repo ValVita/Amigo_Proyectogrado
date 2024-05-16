@@ -1,0 +1,531 @@
+.cita-veterinaria1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.cita-veterinaria-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-40xl);
+  font-size: var(--subtitulo-size);
+}
+.citamedica-delete-child {
+  width: 320px;
+  height: 53px;
+}
+.citamedica-delete-child,
+.div2,
+.nuevo-seguimiento23 {
+  position: relative;
+  display: none;
+}
+.nuevo-seguimiento23 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: var(--nuevo);
+}
+.div2 {
+  width: 132px;
+  font-size: var(--font-size-109xl);
+  line-height: 144px;
+  color: var(--color-white);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 144px;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.doctor4,
+.doctor5,
+.veterinaria4,
+.veterinaria5 {
+  position: relative;
+  font-weight: 300;
+  display: none;
+}
+.doctor4,
+.doctor5 {
+  min-width: 93px;
+}
+.nombre8 {
+  position: absolute;
+  margin: 0 !important;
+  top: -19px;
+  left: 316px;
+}
+.frame-child54 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 100%;
+}
+.perrito-icon4 {
+  position: absolute;
+  top: 23px;
+  left: 23px;
+  width: 104px;
+  height: 119px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.ellipse-parent5 {
+  height: 150px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper30 {
+  width: 150px;
+  margin: 0 !important;
+  position: absolute;
+  top: -42px;
+  left: 140px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nuevo-seguimiento24,
+.nuevo-seguimiento25 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  border-radius: 50%;
+}
+.nuevo-seguimiento24 {
+  top: 2px;
+  right: 407px;
+  background-color: var(--nuevo);
+  z-index: 1;
+}
+.nuevo-seguimiento25 {
+  top: 0;
+  right: 253px;
+  background-color: var(--actualizar);
+}
+.ffffff-1-icon5 {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  margin: 0 !important;
+  top: 18px;
+  right: 273px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.nuevo-seguimiento26 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--eliminar);
+}
+.h17 {
+  margin: 0 !important;
+  height: 146.4px;
+  width: 112.4px;
+  position: absolute;
+  right: -98.44px;
+  bottom: -24.49px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  transform: rotate(47.5deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.frame-wrapper31,
+.nuevo-seguimiento-parent9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.nuevo-seguimiento-parent9 {
+  align-self: stretch;
+  width: 100px;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper31 {
+  width: 310px;
+  height: 100px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-child55,
+.frame-child56 {
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.frame-child55 {
+  width: 1258px;
+  height: 487px;
+  background-color: var(--color-white);
+  z-index: 0;
+}
+.frame-child56 {
+  width: 1137px;
+  height: 138px;
+  background-color: var(--cuadro);
+}
+.fecha10 {
+  width: 147px;
+  display: inline-block;
+}
+.consulta4,
+.fecha10 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.frame-child57,
+.rectangle-parent28 {
+  background-color: var(--cuadro);
+  max-width: 100%;
+}
+.rectangle-parent28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-15xl);
+  z-index: 1;
+}
+.frame-child57 {
+  width: 1137px;
+  height: 138px;
+  position: relative;
+  display: none;
+}
+.fecha11 {
+  width: 147px;
+  display: inline-block;
+}
+.consulta5,
+.fecha11 {
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+.rectangle-parent29 {
+  align-self: stretch;
+  background-color: var(--cuadro);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-smi) var(--padding-4xl);
+  box-sizing: border-box;
+  gap: var(--gap-15xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.ver-mas1 {
+  position: relative;
+  z-index: 1;
+}
+.ver-mas-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-20xl);
+  font-size: var(--textinterno-size);
+}
+.est-seguro-que2,
+.frame-child58 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child58 {
+  height: 497px;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  display: none;
+}
+.est-seguro-que2 {
+  margin: 0;
+  height: 190px;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.nuevo-seguimiento27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--eliminar);
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+}
+.no2 {
+  position: absolute;
+  top: 24px;
+  left: 21px;
+  display: inline-block;
+  min-width: 61px;
+  z-index: 6;
+}
+.nuevo-seguimiento-parent10 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-child59 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+}
+.si2 {
+  position: absolute;
+  top: 24px;
+  left: 36px;
+  display: inline-block;
+  min-width: 35px;
+  z-index: 6;
+}
+.ellipse-parent6 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-parent61 {
+  width: 378px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-wrapper32,
+.rectangle-parent30 {
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.frame-wrapper32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-9xs) 0 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--textinterno-size);
+}
+.rectangle-parent30 {
+  width: 793px;
+  margin: 0 !important;
+  position: absolute;
+  top: -145px;
+  right: 227px;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  padding: var(--padding-84xl) var(--padding-6xs) var(--padding-85xl)
+    var(--padding-5xs);
+  z-index: 3;
+  text-align: center;
+  font-size: var(--cuerpo1-size);
+}
+.frame-parent60,
+.rectangle-parent27,
+.rectangle-parent30 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent27 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  align-items: flex-start;
+  padding: var(--padding-36xl) var(--padding-24xl) var(--padding-10xl)
+    var(--padding-59xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-21xl);
+  font-size: var(--piepagina-size);
+  color: var(--color-black);
+}
+.frame-parent60 {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-44xl);
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+}
+.citamedica-delete,
+.nombre-group {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+.nombre-group {
+  width: 1258px;
+  flex-direction: row;
+  max-width: 100%;
+  font-size: var(--textinterno-size);
+}
+.citamedica-delete {
+  width: 100%;
+  background-color: var(--fondo);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-91xl) var(--padding-30xl) var(--padding-61xl)
+    var(--padding-34xl);
+  box-sizing: border-box;
+  gap: 114px;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--piepagina-size);
+}
+@media screen and (max-width: 1200px) {
+  .rectangle-parent27 {
+    padding-left: var(--padding-20xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cita-veterinaria1 {
+    font-size: var(--font-size-29xl);
+  }
+  .div2 {
+    font-size: var(--font-size-32xl);
+    line-height: 86px;
+  }
+  .doctor4,
+  .doctor5,
+  .veterinaria4,
+  .veterinaria5 {
+    font-size: var(--font-size-5xl);
+  }
+  .nombre8 {
+    font-size: var(--font-size-13xl);
+  }
+  .h17 {
+    font-size: var(--font-size-32xl);
+  }
+  .consulta4,
+  .consulta5,
+  .fecha10,
+  .fecha11 {
+    font-size: var(--font-size-5xl);
+  }
+  .ver-mas1 {
+    font-size: var(--font-size-13xl);
+  }
+  .est-seguro-que2 {
+    font-size: var(--textinterno-size);
+  }
+  .no2,
+  .si2 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .cita-veterinaria-container {
+    padding-left: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent27 {
+    gap: var(--gap-xl);
+    padding-top: var(--padding-17xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent60 {
+    gap: var(--gap-12xl);
+  }
+  .citamedica-delete {
+    gap: var(--gap-38xl);
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cita-veterinaria1 {
+    font-size: var(--font-size-17xl);
+  }
+  .div2 {
+    font-size: var(--font-size-13xl);
+    line-height: 58px;
+  }
+  .doctor4,
+  .doctor5,
+  .veterinaria4,
+  .veterinaria5 {
+    font-size: var(--font-size-lg);
+  }
+  .nombre8 {
+    font-size: var(--font-size-5xl);
+  }
+  .h17 {
+    font-size: var(--font-size-13xl);
+  }
+  .consulta4,
+  .consulta5,
+  .fecha10,
+  .fecha11 {
+    font-size: var(--font-size-lg);
+  }
+  .ver-mas1 {
+    font-size: var(--font-size-5xl);
+  }
+  .est-seguro-que2 {
+    font-size: var(--piepagina-size);
+  }
+  .no2,
+  .si2 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent61 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent60 {
+    gap: var(--gap-base);
+  }
+  .citamedica-delete {
+    gap: var(--gap-9xl);
+  }
+}

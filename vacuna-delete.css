@@ -1,0 +1,453 @@
+.seguimiento-de-vacunas1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.seguimiento-de-vacunas-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-12xs) 0 0;
+  font-size: var(--subtitulo-size);
+}
+.nuevo-seguimiento36,
+.vacuna-delete-child {
+  width: 320px;
+  height: 53px;
+  position: relative;
+  display: none;
+}
+.nuevo-seguimiento36 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: var(--nuevo);
+}
+.div4 {
+  width: 132px;
+  font-size: var(--font-size-109xl);
+  line-height: 144px;
+  color: var(--color-white);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 144px;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.controla1,
+.div4,
+.medicamento9,
+.veterinaria11 {
+  position: relative;
+  display: none;
+}
+.frame-child72 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 100%;
+}
+.perrito-icon7 {
+  position: absolute;
+  top: 23px;
+  left: 23px;
+  width: 104px;
+  height: 119px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.ellipse-parent8 {
+  height: 150px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper47 {
+  width: 150px;
+  margin: 0 !important;
+  position: absolute;
+  top: -42px;
+  right: -52px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fecha17 {
+  position: relative;
+  display: inline-block;
+  min-width: 113px;
+  z-index: 2;
+}
+.fecha-wrapper3,
+.frame-parent99 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fecha-wrapper3 {
+  flex-direction: column;
+  padding: 240px var(--padding-8xs) 0 0;
+}
+.frame-parent99 {
+  flex-direction: row;
+  position: relative;
+}
+.speedy-container-child {
+  height: 506px;
+  width: 1258px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.vacuna-1-icon1 {
+  width: 1152px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.speedy-container {
+  width: 1258px;
+  right: -264px;
+  bottom: -157px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-39xl) 47px;
+  box-sizing: border-box;
+}
+.nombre11,
+.nuevo-seguimiento37,
+.speedy-container {
+  position: absolute;
+  margin: 0 !important;
+}
+.nombre11 {
+  top: -34px;
+  left: 67px;
+}
+.nuevo-seguimiento37 {
+  height: 100px;
+  width: 100px;
+  top: -13px;
+  right: 191px;
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  z-index: 1;
+}
+.nuevo-seguimiento38 {
+  height: 100px;
+  width: 100px;
+  top: -15px;
+  right: 37px;
+  border-radius: 50%;
+  background-color: var(--actualizar);
+  z-index: 3;
+}
+.documento1,
+.ffffff-1-icon8,
+.nuevo-seguimiento38 {
+  position: absolute;
+  margin: 0 !important;
+}
+.ffffff-1-icon8 {
+  height: 60px;
+  width: 60px;
+  top: 3px;
+  right: 57px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.documento1 {
+  top: calc(50% - 23.5px);
+  right: -205px;
+  z-index: 2;
+}
+.est-seguro-que3,
+.frame-child73 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child73 {
+  height: 497px;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  display: none;
+}
+.est-seguro-que3 {
+  height: 190px;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 6;
+}
+.nuevo-seguimiento39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--eliminar);
+  width: 100%;
+  height: 100%;
+  z-index: 6;
+}
+.no3 {
+  position: absolute;
+  top: 29px;
+  left: 22px;
+  display: inline-block;
+  min-width: 61px;
+  z-index: 7;
+}
+.nuevo-seguimiento-parent15 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-child74 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  width: 100%;
+  height: 100%;
+  z-index: 6;
+}
+.si3 {
+  position: absolute;
+  top: 26px;
+  left: 32px;
+  display: inline-block;
+  min-width: 35px;
+  z-index: 7;
+}
+.ellipse-parent9 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-parent100 {
+  width: 382px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-wrapper49,
+.rectangle-parent37 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper49 {
+  width: 742px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--textinterno-size);
+}
+.rectangle-parent37 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 85px var(--padding-2xs) var(--padding-41xl) var(--padding-9xs);
+  gap: 62px;
+  z-index: 5;
+  text-align: center;
+  font-size: var(--cuerpo1-size);
+}
+.frame-wrapper48,
+.speedy-container-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.speedy-container-parent {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.frame-wrapper48 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  min-width: 515px;
+}
+.nuevo-seguimiento40 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--eliminar);
+}
+.h19 {
+  margin: 0 !important;
+  height: 146.4px;
+  width: 112.4px;
+  position: absolute;
+  right: -98.44px;
+  bottom: -24.49px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  transform: rotate(47.5deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.nuevo-seguimiento-parent16 {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+}
+.frame-parent98,
+.vacuna-delete {
+  display: flex;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--textinterno-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+.frame-parent98 {
+  width: 1033px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 11px;
+  max-width: 100%;
+}
+.vacuna-delete {
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-102xl) var(--padding-144xl) 279px;
+  box-sizing: border-box;
+  gap: var(--gap-23xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 900px) {
+  .seguimiento-de-vacunas1 {
+    font-size: var(--font-size-29xl);
+  }
+  .div4 {
+    font-size: var(--font-size-32xl);
+    line-height: 86px;
+  }
+  .controla1,
+  .documento1,
+  .fecha17,
+  .medicamento9,
+  .nombre11,
+  .veterinaria11 {
+    font-size: var(--font-size-13xl);
+  }
+  .est-seguro-que3 {
+    font-size: var(--textinterno-size);
+  }
+  .no3,
+  .si3 {
+    font-size: var(--font-size-13xl);
+  }
+  .rectangle-parent37 {
+    gap: var(--gap-12xl);
+  }
+  .frame-wrapper48 {
+    min-width: 100%;
+  }
+  .h19 {
+    font-size: var(--font-size-32xl);
+  }
+  .vacuna-delete {
+    gap: var(--gap-2xl);
+    padding-left: var(--padding-62xl);
+    padding-right: var(--padding-62xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 675px) {
+  .rectangle-parent37 {
+    padding-top: var(--padding-36xl);
+    padding-bottom: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .seguimiento-de-vacunas1 {
+    font-size: var(--font-size-17xl);
+  }
+  .div4 {
+    font-size: var(--font-size-13xl);
+    line-height: 58px;
+  }
+  .controla1,
+  .documento1,
+  .fecha17,
+  .medicamento9,
+  .nombre11,
+  .veterinaria11 {
+    font-size: var(--font-size-5xl);
+  }
+  .est-seguro-que3 {
+    font-size: var(--piepagina-size);
+  }
+  .no3,
+  .si3 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent100 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .rectangle-parent37 {
+    gap: var(--gap-mini);
+  }
+  .h19 {
+    font-size: var(--font-size-13xl);
+  }
+  .vacuna-delete {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
