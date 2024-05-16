@@ -1,0 +1,558 @@
+.actualizacin-de-mascota {
+  margin: 0;
+  position: relative;
+  font-size: var(--subtitulo-size);
+  font-weight: 300;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+}
+.actualizacin-de-mascota-wrapper {
+  width: 1122px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.pet-photo-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 100%;
+}
+.foto2 {
+  position: absolute;
+  top: 77px;
+  left: 55px;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  min-width: 95px;
+  z-index: 1;
+}
+.pet-photo {
+  height: 204px;
+  width: 207px;
+  position: relative;
+}
+.photo-block {
+  width: 1121px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.nombre2 {
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+}
+.name-field {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.name-input-box {
+  height: 53px;
+  flex: 1;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  min-width: 208px;
+}
+.name-input,
+.species-field-child {
+  display: flex;
+  align-items: flex-start;
+}
+.name-input {
+  width: 488px;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-15xl);
+  max-width: 100%;
+}
+.species-field-child {
+  width: 128px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 49px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  font-family: var(--piepagina);
+  font-size: var(--tamao35-size);
+  color: var(--color-black);
+}
+.species-input-box {
+  height: 53px;
+  flex: 1;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  min-width: 208px;
+}
+.species-field {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-22xl);
+}
+.name-species,
+.pet-info,
+.species-input {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.species-input {
+  width: 489px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.name-species,
+.pet-info {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.pet-info {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  gap: var(--gap-36xl);
+}
+.raza2 {
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 78px;
+}
+.breed-input {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.breed-input-box {
+  height: 53px;
+  flex: 1;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  min-width: 208px;
+}
+.breed-date {
+  width: 432px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+  max-width: 100%;
+}
+.nacimiento2 {
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+}
+.birth-input-box {
+  align-self: stretch;
+  height: 41px;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.birth-date-field,
+.birth-input {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.birth-date-field {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 208px;
+}
+.birth-input {
+  width: 537px;
+  gap: var(--gap-12xl);
+}
+.birth-input,
+.breed-birth,
+.breed-birth-details {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.breed-birth-details {
+  width: 1097px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.breed-birth {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) var(--padding-5xl);
+  box-sizing: border-box;
+}
+.sexo2 {
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 79px;
+}
+.male-button-child {
+  height: 61px;
+  width: 78px;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.h3 {
+  width: 26px;
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.male-button,
+.male-option {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.male-button {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-5xs) var(--padding-6xl);
+  background-color: var(--color-whitesmoke);
+  align-self: stretch;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  flex-direction: row;
+}
+.female-option:hover,
+.male-button:hover {
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.male-option {
+  width: 84px;
+  flex-direction: column;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.female-option-child {
+  height: 61px;
+  width: 78px;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.m2 {
+  width: 31px;
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.female-option,
+.gender-options {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.female-option {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-5xs) var(--padding-xl) var(--padding-5xs)
+    var(--padding-6xl);
+  background-color: var(--color-whitesmoke);
+  width: 78px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.gender-options {
+  width: 309px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-child24 {
+  height: 74px;
+  width: 335px;
+  position: relative;
+  border-radius: var(--br-14xl);
+  display: none;
+  max-width: 100%;
+}
+.cancelar1 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child25,
+.vector-container {
+  border-radius: var(--br-14xl);
+  max-width: 100%;
+}
+.vector-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-50xl) var(--padding-4xs);
+  background-color: var(--color-plum);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.vector-container:hover {
+  background-color: var(--color-palevioletred);
+}
+.frame-child25 {
+  height: 74px;
+  width: 335px;
+  position: relative;
+  display: none;
+}
+.guardar {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.vector-parent1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-xl) var(--padding-xs)
+    var(--padding-2xl);
+  background-color: var(--color-powderblue);
+  width: 335px;
+  border-radius: var(--br-14xl);
+  justify-content: center;
+  box-sizing: border-box;
+}
+.vector-parent1:hover {
+  background-color: var(--color-lightblue);
+}
+.action-buttons,
+.button-container,
+.vector-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.button-container {
+  width: 849px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.action-buttons {
+  align-self: stretch;
+  justify-content: flex-end;
+}
+.adminupload,
+.gender-buttons,
+.gender-selection {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gender-selection {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-36xl);
+  max-width: 100%;
+}
+.adminupload,
+.gender-buttons {
+  box-sizing: border-box;
+}
+.gender-buttons {
+  width: 1081px;
+  flex-direction: row;
+  padding: 0 var(--padding-36xl);
+  max-width: 100%;
+}
+.adminupload {
+  margin: 0;
+  width: 100%;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-30xl) 143px 146px;
+  gap: var(--gap-36xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .name-species {
+    justify-content: center;
+  }
+  .breed-birth-details,
+  .name-species {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .button-container {
+    flex-wrap: wrap;
+  }
+  .gender-buttons {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .actualizacin-de-mascota {
+    font-size: var(--font-size-29xl);
+  }
+  .foto2 {
+    font-size: var(--font-size-15xl);
+  }
+  .nombre2 {
+    font-size: var(--font-size-9xl);
+  }
+  .name-input {
+    flex-wrap: wrap;
+    gap: var(--gap-mid);
+  }
+  .species-field {
+    flex-wrap: wrap;
+    gap: var(--gap-xl);
+  }
+  .pet-info {
+    gap: var(--gap-8xl);
+  }
+  .nacimiento2,
+  .raza2 {
+    font-size: var(--font-size-9xl);
+  }
+  .birth-input {
+    flex-wrap: wrap;
+    gap: var(--gap-mini);
+  }
+  .h3,
+  .m2,
+  .sexo2 {
+    font-size: var(--font-size-9xl);
+  }
+  .cancelar1,
+  .guardar {
+    font-size: var(--font-size-15xl);
+  }
+  .adminupload,
+  .gender-selection {
+    gap: var(--gap-8xl);
+  }
+  .adminupload {
+    padding-left: var(--padding-52xl);
+    padding-right: var(--padding-52xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .actualizacin-de-mascota {
+    font-size: var(--font-size-17xl);
+  }
+  .foto2 {
+    font-size: var(--font-size-7xl);
+  }
+  .nombre2,
+  .raza2 {
+    font-size: var(--font-size-2xl);
+  }
+  .breed-date {
+    flex-wrap: wrap;
+    gap: var(--gap-mid);
+  }
+  .h3,
+  .m2,
+  .nacimiento2,
+  .sexo2 {
+    font-size: var(--font-size-2xl);
+  }
+  .cancelar1 {
+    font-size: var(--font-size-7xl);
+  }
+  .vector-container {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .guardar {
+    font-size: var(--font-size-7xl);
+  }
+  .adminupload {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

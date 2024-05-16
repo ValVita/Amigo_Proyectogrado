@@ -1,0 +1,471 @@
+.foto1 {
+  position: relative;
+  font-size: var(--boton-size);
+  letter-spacing: 0.02em;
+  display: none;
+  min-width: 95px;
+}
+.adm-eliminacion-child,
+.adm-eliminacion-item {
+  width: 320px;
+  height: 53px;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.adm-eliminacion-item {
+  height: 41px;
+}
+.especie1 {
+  min-width: 128px;
+}
+.especie1,
+.gato1,
+.nacimiento1 {
+  position: relative;
+  display: none;
+}
+.gato1 {
+  font-size: var(--textinterno-size);
+  min-width: 88px;
+}
+.mis-mascotas1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+}
+.mis-mascotas-container {
+  width: 851px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  font-size: var(--subtitulo-size);
+}
+.nombre1,
+.raza1,
+.sexo1 {
+  position: absolute;
+  top: 193px;
+  left: 3px;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+}
+.raza1,
+.sexo1 {
+  top: 316px;
+  left: 0;
+  display: inline-block;
+  min-width: 78px;
+}
+.sexo1 {
+  top: 439px;
+  left: 3px;
+  min-width: 79px;
+}
+.frame-child17 {
+  height: 61px;
+  width: 78px;
+  position: relative;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.h2 {
+  width: 26px;
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-parent13 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-5xs) var(--padding-6xl);
+  background-color: var(--color-whitesmoke);
+  position: absolute;
+  top: 487px;
+  left: 3px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  width: 78px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child18,
+.rectangle-parent13:hover,
+.rectangle-parent16:hover {
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.frame-child18 {
+  height: 53px;
+  width: 320px;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  display: none;
+}
+.yudy1 {
+  position: relative;
+  font-size: var(--textinterno-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 94px;
+  z-index: 1;
+}
+.frame-child19,
+.rectangle-parent14 {
+  width: 320px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 234px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-5xs) 0;
+}
+.frame-child19 {
+  height: 53px;
+  position: relative;
+  display: none;
+}
+.mestizo1 {
+  position: relative;
+  font-size: var(--textinterno-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 357px;
+  left: 0;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-5xs);
+}
+.frame-child20 {
+  height: 204px;
+  width: 207px;
+  position: absolute;
+  margin: 0 !important;
+  top: -25px;
+  left: 56px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+}
+.frame-child21 {
+  height: 61px;
+  width: 78px;
+  position: relative;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.m1 {
+  width: 31px;
+  position: relative;
+  font-size: var(--tamao35-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-parent16 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-5xs) var(--padding-xl) var(--padding-5xs)
+    var(--padding-6xl);
+  background-color: var(--color-whitesmoke);
+  width: 78px;
+  margin: 0 !important;
+  position: absolute;
+  bottom: -51px;
+  left: -39px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.25) inset;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.est-seguro-que,
+.frame-child22 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child22 {
+  height: 497px;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  display: none;
+}
+.est-seguro-que {
+  margin: 0;
+  height: 190px;
+  font-size: var(--cuerpo1-size);
+  font-weight: 300;
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.nuevo-seguimiento4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--eliminar);
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.no {
+  position: absolute;
+  top: 32px;
+  left: 19px;
+  font-size: var(--textinterno-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 61px;
+  z-index: 4;
+}
+.nuevo-seguimiento-parent1 {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-child23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 12px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--nuevo);
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.si {
+  position: absolute;
+  top: 23px;
+  left: 32px;
+  font-size: var(--textinterno-size);
+  font-family: var(--piepagina);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 35px;
+  z-index: 4;
+}
+.ellipse-container {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frame-parent19,
+.frame-wrapper12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent19 {
+  width: 377px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper12 {
+  width: 751px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.ellipse-group,
+.rectangle-parent17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent17 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--cuadroemergente);
+  flex-direction: column;
+  padding: var(--padding-49xl) 0 87px 18px;
+  box-sizing: border-box;
+  gap: var(--gap-33xl);
+  z-index: 2;
+}
+.ellipse-group {
+  position: absolute;
+  top: 0;
+  left: 160px;
+  width: 796px;
+  flex-direction: row;
+}
+.nombre-parent {
+  margin: 0;
+  width: 956px;
+  height: 548px;
+  position: relative;
+  max-width: 100%;
+}
+.adm-eliminacion {
+  width: 1440px;
+  position: relative;
+  background-color: var(--fondo);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-86xl) var(--padding-113xl) 247px;
+  box-sizing: border-box;
+  gap: var(--gap-35xl);
+  line-height: normal;
+  letter-spacing: normal;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--tamao35-size);
+  color: var(--color-black);
+  font-family: var(--piepagina);
+}
+@media screen and (max-width: 1200px) {
+  .adm-eliminacion {
+    padding-left: var(--padding-47xl);
+    padding-right: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .foto1 {
+    font-size: var(--font-size-15xl);
+  }
+  .especie1,
+  .nacimiento1 {
+    font-size: var(--font-size-9xl);
+  }
+  .gato1 {
+    font-size: var(--font-size-13xl);
+  }
+  .mis-mascotas1 {
+    font-size: var(--font-size-29xl);
+  }
+  .h2,
+  .nombre1,
+  .raza1,
+  .sexo1 {
+    font-size: var(--font-size-9xl);
+  }
+  .mestizo1,
+  .yudy1 {
+    font-size: var(--font-size-13xl);
+  }
+  .m1 {
+    font-size: var(--font-size-9xl);
+  }
+  .est-seguro-que {
+    font-size: var(--textinterno-size);
+  }
+  .no,
+  .si {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .adm-eliminacion {
+    gap: var(--gap-8xl);
+    padding-left: var(--padding-14xl);
+    padding-right: var(--padding-14xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .foto1 {
+    font-size: var(--font-size-7xl);
+  }
+  .especie1,
+  .nacimiento1 {
+    font-size: var(--font-size-2xl);
+  }
+  .gato1 {
+    font-size: var(--font-size-5xl);
+  }
+  .mis-mascotas1 {
+    font-size: var(--font-size-17xl);
+  }
+  .h2,
+  .nombre1,
+  .raza1,
+  .sexo1 {
+    font-size: var(--font-size-2xl);
+  }
+  .mestizo1,
+  .yudy1 {
+    font-size: var(--font-size-5xl);
+  }
+  .m1 {
+    font-size: var(--font-size-2xl);
+  }
+  .est-seguro-que {
+    font-size: var(--piepagina-size);
+  }
+  .no,
+  .si {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent19 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .nombre-parent {
+    height: auto;
+    min-height: 548;
+  }
+}
